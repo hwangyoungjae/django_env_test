@@ -1,0 +1,1 @@
+/Users/youngjae/PycharmProjects/django_env_test/manage.py
